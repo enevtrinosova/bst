@@ -27,4 +27,3 @@ const checkNode = (node, min, max) => {
 const isValidBST = (root) => {
     return checkNode(root, null, null);
 };
-
